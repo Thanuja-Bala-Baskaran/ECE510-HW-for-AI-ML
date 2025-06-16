@@ -1,0 +1,2 @@
+DNN Training Time (s): 6.40
+Test Accuracy: 0.2743
